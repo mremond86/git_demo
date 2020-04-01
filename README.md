@@ -1,2 +1,2 @@
 # git_demo
-Une demo sur gitHub
+Une demo sur gitHub :)
